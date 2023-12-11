@@ -20,6 +20,4 @@ a terminal-based fake hacking toy software made with python. the light version o
 
 # license
 the software is licensed under the mit license.
-
-# screenshots!
 ![blopperpy lite screenshot in terminal](https://github.com/01adrianrdgz/blopperpy-lite/assets/149033599/09ed3ad6-6a90-4ed7-b578-3c31c37a51c0)
